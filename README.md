@@ -58,7 +58,7 @@ Welcome to the **Flutter Animations** repository! This is a collection of animat
 - **Code**: [animated_shopping_cart_button.dart](https://github.com/Hassan-akachi/flutter_animation/blob/master/lib/implicit_examples/animated_shopping_cart_button.dart)
 - **Preview**: [animated_shopping_cart_button.mp4](https://github.com/Hassan-akachi/flutter_animation/blob/master/sample/button%20transition.mp4)
 
-![Animated Shopping Cart Button](https://github.com/Hassan-akachi/flutter_animation/blob/master/sample/button%20transition.mp4)
+![Animated Shopping Cart Button](sample/button%20transition.mp4)
 
 ---
 
